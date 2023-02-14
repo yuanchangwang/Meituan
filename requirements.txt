@@ -1,8 +1,1 @@
-fake-useragent>=0.1.11
-requests>=2.21.0
-pandas>=0.24.1
-PyMysql>=0.9.3
-pyquery>=1.4.0
-SQLAlchemy>=1.3.3
-wordcloud>=1.5.0
-jieba>=0.39
+dmxlc3M6Ly81YmUzODI5OC1mZmE0LTRmMzktZjBiZS0xMjhkYWVhNTRmOGFAYWJjLnFpYW54aWFvcWlhbi50azo0NDM/dHlwZT10Y3Amc2VjdXJpdHk9eHRscyZmbG93PXh0bHMtcnByeC1kaXJlY3Qjb3JhY2xl
